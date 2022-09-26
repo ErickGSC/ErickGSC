@@ -13,13 +13,8 @@
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href="https://docs.oracle.com/en/java/"><img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1652576070~hmac=185b84e550576f3532f69b2c3bb64af9"></a></code>
-<code><a href="https://pt-br.reactjs.org/"><img height="30" width="30" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png"></a></code>
-<code><a href="https://getbootstrap.com/"><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png"></a></code>
-<code><a href="https://github.com/"><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></a></code>
+<code><a href="https://github.com/"><img height="30" width="30" 
 <code><a href="https://code.visualstudio.com/"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href="https://netbeans.apache.org/"><img height="30" width="30" src="https://img.utdstc.com/icon/04d/26f/04d26f25572d512a49e76f8f52e2319050162dce0a4e21ee14fc03903342cacc:200"></a></code>
-<br/>
 
 
 <h2>𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:</h2>
